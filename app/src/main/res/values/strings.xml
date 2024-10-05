@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Picsta</string>
+    <string name="capture_image_button">Capture Image Button</string>
+    <string name="flip_camera">Flip Camera</string>
 </resources>
